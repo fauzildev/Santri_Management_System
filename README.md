@@ -20,3 +20,6 @@ A simple Python-based command-line application to manage santri (student) data.
    
 ## Purpose
 This project was built to practice basic programming logic, data management, and problem-solving using Python.
+
+## Project Description
+This project was created to help manage santri data in a simple and practical way, based on real needs in a boarding school environment.
