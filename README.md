@@ -23,3 +23,7 @@ This project was built to practice basic programming logic, data management, and
 
 ## Project Description
 This project was created to help manage santri data in a simple and practical way, based on real needs in a boarding school environment.
+
+## Autors
+**Muhammad Fauzil Adhim**
+GitHub: https://github.com/fauzildev
